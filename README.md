@@ -6,7 +6,7 @@
 
 - 👩‍💻 Meu perfil com atividades sobre a área (https://github.com/WendyEugenia)
 
-- 💬 Conheciemntos  e estudando atualmente  **JavaScript, HTML, CSS, Node.js, Vue e Quasar**
+- 💬 Conheciemntos  e estudando atualmente  **JavaScript, HTML, CSS, Node.js, Vue.js e Quasar**
 
 - ➡️ Perfil dde Linkedin (https://www.linkedin.com/in/wendy-eugenia/)
 
