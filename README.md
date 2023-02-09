@@ -4,11 +4,11 @@
 
 - 😊 Estudante e com ambiação de igressar na área de Tecnologia  🏴
 
-- 👩‍💻 Meu perfil com atividades sobre a área (https://github.com/WendyEugenia)
+- 👩‍💻 Meu perfil com atividades sobre a área --> https://github.com/WendyEugenia?tab=repositories
 
 - 💬 Conheciemntos  e estudando atualmente  **JavaScript, HTML, CSS, Node.js, Vue.js e Quasar**
 
-- ➡️ Perfil dde Linkedin (https://www.linkedin.com/in/wendy-eugenia/)
+- ➡️ Perfil dde Linkedin --> https://www.linkedin.com/in/wendy-eugenia/
 
 <br><br>
 
