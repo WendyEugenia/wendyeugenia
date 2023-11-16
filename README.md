@@ -1,14 +1,15 @@
-<h1 align="left"> Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, sou Wendy</h1>
+<h1 align="left"> 🍀 Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, sou Wendy</h1>
 
 <br><br>
 
-- 😊 Estudante e com ambiação de igressar na área de Tecnologia  🏴
+- 🍁 Estudante  | **Programa em Desenvolvimento
+FullStack (Java React)** | **BOOTCAMP DA GENERATION BRASIL**
 
-- 👩‍💻 Meu perfil com atividades sobre a área --> https://github.com/WendyEugenia?tab=repositories
-
-- 💬 Conheciemntos  e estudando atualmente  **JavaScript, HTML, CSS, Node.js, Vue.js e Quasar**
-
-- ➡️ Perfil dde Linkedin --> https://www.linkedin.com/in/wendy-eugenia/
+- 🍁 Estudando atualmente  Linguagem **JAVA**
+  
+- 🍁 Conhecimento em **JavaScript, HTML, CSS, Vue.js e Quasar**
+  
+- 🍁 Perfil Linkedin --> https://www.linkedin.com/in/wendy-eugenia/
 
 <br><br>
 
