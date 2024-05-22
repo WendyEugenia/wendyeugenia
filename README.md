@@ -2,12 +2,10 @@
 
 <br><br>
 
-- 🍁 Estudante  | **Programa em Desenvolvimento
-FullStack (Java React)** | **BOOTCAMP DA GENERATION BRASIL**
-
-- 🍁 Estudando atualmente  Linguagem **JAVA**
+- 🍁 Estudante  de Análise e desenvolvimento de sistemas
   
-- 🍁 Conhecimento em **JavaScript, HTML, CSS, Vue.js e Quasar**
+- Participei | **BOOTCAMP DA GENERATION BRASIL** e **Mentoria da Cloud Girls** |
+- 🍁 Conhecimento em **Java, JavaScript, HTML, CSS, React, MySql**
   
 - 🍁 Perfil Linkedin --> https://www.linkedin.com/in/wendy-eugenia/
 
